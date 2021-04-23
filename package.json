@@ -1,0 +1,25 @@
+{
+  "name": "todo-app-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "TODOapp.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pinarebecca2020/TODOapp.git"
+  },
+  "author": "Rebecca Pina",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pinarebecca2020/TODOapp/issues"
+  },
+  "homepage": "https://github.com/pinarebecca2020/TODOapp#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "engines": {
+    "node": "14.16.1"
+  }
+}
